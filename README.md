@@ -18,7 +18,7 @@ The project includes:
 ## Sample Table Structure
 | StudentID | FullName          | Age | Department | Email                    |
 |-----------|-----------------|-----|------------|-------------------------|
-| 1         | Harika Ponnamanda| 22  | CSE        | harikaponnamanda18@gmail.com |
+| 1         | Harika Ponnamanda| 22  | CSE        | harikaponnamanda@gmail.com |
 | 2         | Sravani          | 21  | EEE        | sravani@gmail.com       |
 
 ## How to Run
